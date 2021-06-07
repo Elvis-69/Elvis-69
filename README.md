@@ -8,7 +8,7 @@
 >![imageJdr](jdr.jpeg)
 >![imageManga](manga.jpg)
 
->###Et surtout... j'adore les chiens ^^
+>Et surtout... j'adore les chiens ^^
 >Comme les Corgis
 >![imaggeChien](welsh.jpg)
 
