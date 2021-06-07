@@ -4,20 +4,24 @@
 >![imagePc](informatique.jpg)
 
 >Je suis également passionné de jeux vidéos, de jeux de rôles et de mangas
->'''html
-><html>
+
+<html>
   <head>
-    <style>.image {
+    <style type="text/css">
+      .image {
       text-align: center;
       }
     </style>
   </head>
   <body>
-    <div class image>
+    <div class="image">
     <img src="https://github.com/Elvis-69/Elvis-69/blob/main/JeuVideo.jpg" alt="manette 360" display="block" height="150px">
     <img src="jdr.jpeg" alt="jeu de plateau" height="160px">
     <img src="manga.jpg" alt="jeu de plateau" height="160px">
     </div>
+  </body>
+</html>
+
 
 >Et surtout... j'adore les chiens ^^
 >Comme les Corgis
