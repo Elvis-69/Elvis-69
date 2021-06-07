@@ -3,8 +3,8 @@
 >Amateur d'informatique, je suis actuellement en formation de testeur logiciel.
 >![imagePc](informatique.jpg)
 
->Je suis également passionné de jeux vidéos, de jeux de rôles et de mangas.
->![imageJeu](jeuVideo.jpg)
+>Je suis également passionné de jeux vidéos, de jeux de rôles et de mangas
+![imageJeu](https://github.com/Elvis-69/Elvis-69/blob/main/JeuVideo.jpg)
 >![imageJdr](jdr.jpeg)
 >![imageManga](manga.jpg)
 
