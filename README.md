@@ -10,7 +10,7 @@
 
 >Et surtout... j'adore les chiens ^^
 >Comme les Corgis
->![imaggeChien](welsh.jpg)
+>![imageChien](welsh.jpg)
 
 
 <!---
